@@ -1,9 +1,8 @@
-print("------------------------------------------------------------------------------------------------------------------------------------------------------------------------")
 local everything = {
     "Loading...",
     "test script decoding [ Part 1 ]",
-    "If there are enough [ 1 ] [ 2 ] [ 3 ] [ 4 ] or enough 4 🟢 then the best executor  ",
-    "If there are not enough [ 1 ] [ 2 ] [ 3 ] [ 4 ] or not enough 4 🟢 then the executor is not good  ",
+    "If there are enough [ 1 ] [ 2 ] [ 3 ] [ 4 ] or enough 4 🟢 then the best executor 😀 ",
+    "If there are not enough [ 1 ] [ 2 ] [ 3 ] [ 4 ] or not enough 4 🟢 then the executor is not good 💩 ",
     "max [ 1 ] to [ 4 ] or ( 4 🟢 )",
     " ",
 
