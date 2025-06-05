@@ -1,8 +1,8 @@
 local everything = {
     "Loading...",
     "test script decoding [ Part 2 ]",
-    "If there are enough [ 1 ] [ 2 ] [ 3 ] [ 4 ] [ 5 ] [ 6 ] [ 7 ] [ 8 ] [ 9 ] [ 10 ] [ 11 ] [ 12 ] [ 13 ] [ 14 ] [ 15 ] or enough 15 🟢 then the best executor  ",
-    "If there are not enough [ 1 ] [ 2 ] [ 3 ] [ 4 ] [ 5 ] [ 6 ] [ 7 ] [ 8 ] [ 9 ] [ 10 ] [ 11 ] [ 12 ] [ 13 ] [ 14 ] [ 15 ] or not enough 15 🟢 then the executor is not good  ",
+    "If there are enough [ 1 ] [ 2 ] [ 3 ] [ 4 ] [ 5 ] [ 6 ] [ 7 ] [ 8 ] [ 9 ] [ 10 ] [ 11 ] [ 12 ] [ 13 ] [ 14 ] [ 15 ] or enough 15 🟢 then the best executor 😀",
+    "If there are not enough [ 1 ] [ 2 ] [ 3 ] [ 4 ] [ 5 ] [ 6 ] [ 7 ] [ 8 ] [ 9 ] [ 10 ] [ 11 ] [ 12 ] [ 13 ] [ 14 ] [ 15 ] or not enough 15 🟢 then the executor is not good 💩 ",
     "max [ 1 ] to [ 15 ] or ( 15 🟢 )",
     " ",
 
