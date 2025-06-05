@@ -1,9 +1,18 @@
 print("------------------------------------------------------------------------------------------------------------------------------------------------------------------------")
-print("test script decoding [ VIP 1 ]")
-print("attention [ VIP 1 ] 👇👇")
-print("If there are enough [ 1 ] [ 2 ] [ 3 ] [ 4 ] or enough 4 🟢 then the best executor 😀")
-print("If there are not enough [ 1 ] [ 2 ] [ 3 ] [ 4 ] or not enough 4 🟢 then the executor is not good 💩")
-print(" ")
+local everything = {
+    "Loading...",
+    "test script decoding [ Part 1 ]",
+    "If there are enough [ 1 ] [ 2 ] [ 3 ] [ 4 ] or enough 4 🟢 then the best executor 😀 ",
+    "If there are not enough [ 1 ] [ 2 ] [ 3 ] [ 4 ] or not enough 4 🟢 then the executor is not good 💩 ",
+    " ",
+
+}
+
+for i, v in next, everything do
+    print(tostring(v))
+    task.wait()
+end
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/dzje92/dmhvip1/refs/heads/main/dmhlv1.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/dzje92/dmhvip1/refs/heads/main/dmhlv2.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/dzje92/dmhvip1/refs/heads/main/dmhlv3.lua"))()
